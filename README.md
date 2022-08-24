@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Scartiloffista (but I usually prefer Valerio), from Napoli now living in Paris
-- 👀 I’m interested in
-  - 👨‍💻 computer science (very comfortable among databases and stuff like that)
-  - ✊ issues around the world
+- 👀 I’m interested in computer science (very comfortable among databases and stuff like that)
 - 😸 I become very stupid when placed in front of cats
-- ✍️ Sometimes I post stuff on [scartiloffista.dev](scartiloffista.dev)
+- ✍️ Sometimes I post stuff on [scartiloffista.dev](https://scartiloffista.dev)
 - 📫 You can drop be an email at `{"user": "valerio", "domain": "bruttocarattere", "tld": "org"}`
 
 <!---
